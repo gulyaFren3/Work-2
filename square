@@ -1,0 +1,6 @@
+def square_of_diameter(diameter):
+    return diameter ** 2
+
+# Example usage:
+planet_diameter = 12742  # Diameter of Earth in kilometers
+print("The square of the planet's diameter is:", square_of_diameter(planet_diameter))
